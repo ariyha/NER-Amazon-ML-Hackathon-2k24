@@ -29,4 +29,5 @@ This project was built for a hackathon and is **not a complete, production-ready
   - `Pillow`
 #
 🎊🎊 top 10% 🎊🎊
-![WhatsApp Image 2024-09-16 at 12 10 07_e388ca71](https://github.com/user-attachments/assets/f3791ea6-b243-4727-9b87-7a116633854e)
+![ML hackathon Amazon](https://github.com/user-attachments/assets/287108fd-b356-474d-937c-af3993accd1d)
+
